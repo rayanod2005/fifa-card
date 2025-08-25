@@ -1,7 +1,7 @@
 
 import './App.css'
-import PlayerList from './Players'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import PlayerList from './compnents/PlayerList';
 
 function App() {
   
