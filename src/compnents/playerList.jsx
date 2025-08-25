@@ -1,8 +1,8 @@
 
 import { Card } from 'react-bootstrap';
 import Players from '../Players';
-import All from './Player';
 import CardGroup from 'react-bootstrap/CardGroup';
+import All from './Player';
 
 function PlayerList() {
 
