@@ -1,16 +1,10 @@
+import React from 'react'
+import PlayerList from './compnents/playerList'
 
-import './App.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
-import PlayerList from './compnents/playerList';
-
-function App() {
-  
-
+export default function App() {
   return (
-    <>
+    <div>
       <PlayerList />
-    </>
+    </div>
   )
 }
-
-export default App

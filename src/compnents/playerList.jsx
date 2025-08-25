@@ -3,7 +3,6 @@ import { Card } from 'react-bootstrap';
 import Players from '../Players';
 import CardGroup from 'react-bootstrap/CardGroup';
 import All from './Player';
-
 function PlayerList() {
 
 
